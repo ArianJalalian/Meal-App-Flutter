@@ -1,6 +1,6 @@
 # Meal App  
 
--Have you ever find your self not knowing what to make for dinner ? well this app is made for you 
+-Have you ever founded your self not knowing what to make for dinner ? well this app is made for you.
 You can find many great foods with detailed recepies in this app, with ability to filter them based on your likings and dislikings 
 
 
